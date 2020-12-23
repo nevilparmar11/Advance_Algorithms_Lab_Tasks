@@ -1,0 +1,2 @@
+- 2 Factor Vertax cover
+- Greedy vertax cover problem
